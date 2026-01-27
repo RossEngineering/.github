@@ -61,4 +61,6 @@ Repositories may represent different stages of maturity, but all reflect intenti
 
 RossEngineering represents my work as a professional software engineer, focusing on systems thinking, maintainability, and long-term clarity.
 
-For experimentation, learning exercises, and personal projects, see my personal GitHub profile.
+For experimentation, learning exercises, and personal projects, see my personal GitHub profile:
+
+https://github.com/danross2683
